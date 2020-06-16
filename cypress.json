@@ -1,0 +1,10 @@
+{
+  "integrationFolder": "test/",
+  "testFiles": "**/*.spec.js",
+  "viewportWidth": 1400,
+  "video": false,
+  "baseUrl": "https://jetbrains.com",
+  "screenshotsFolder": "cypress/snapshots/actual",
+  "trashAssetsBeforeRuns": true,
+  "chromeWebSecurity": false
+}
